@@ -1,0 +1,787 @@
+{
+  "1": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2012,
+      "Strategy_TotalReturn (%)": 12.68,
+      "Strategy_TotalCAGR (%)": 12.68,
+      "Index_Return (%)": 13.41,
+      "Index_CAGR (%)": 13.41,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2013,
+      "Strategy_TotalReturn (%)": 33.66,
+      "Strategy_TotalCAGR (%)": 33.66,
+      "Index_Return (%)": 29.6,
+      "Index_CAGR (%)": 29.6,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2014,
+      "Strategy_TotalReturn (%)": 8.38,
+      "Strategy_TotalCAGR (%)": 8.38,
+      "Index_Return (%)": 11.39,
+      "Index_CAGR (%)": 11.39,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2015,
+      "Strategy_TotalReturn (%)": -0.72,
+      "Strategy_TotalCAGR (%)": -0.72,
+      "Index_Return (%)": -0.73,
+      "Index_CAGR (%)": -0.73,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2016,
+      "Strategy_TotalReturn (%)": 12.36,
+      "Strategy_TotalCAGR (%)": 12.36,
+      "Index_Return (%)": 9.54,
+      "Index_CAGR (%)": 9.54,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2017,
+      "Strategy_TotalReturn (%)": 18.18,
+      "Strategy_TotalCAGR (%)": 18.18,
+      "Index_Return (%)": 19.42,
+      "Index_CAGR (%)": 19.42,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2017,
+      "EndYear": 2018,
+      "Strategy_TotalReturn (%)": -1.67,
+      "Strategy_TotalCAGR (%)": -1.67,
+      "Index_Return (%)": -6.24,
+      "Index_CAGR (%)": -6.24,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2018,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 33.93,
+      "Strategy_TotalCAGR (%)": 33.93,
+      "Index_Return (%)": 28.88,
+      "Index_CAGR (%)": 28.88,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2019,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 22.75,
+      "Strategy_TotalCAGR (%)": 22.75,
+      "Index_Return (%)": 16.26,
+      "Index_CAGR (%)": 16.26,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2020,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 39.04,
+      "Strategy_TotalCAGR (%)": 39.04,
+      "Index_Return (%)": 26.89,
+      "Index_CAGR (%)": 26.89,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2021,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": -19.72,
+      "Strategy_TotalCAGR (%)": -19.72,
+      "Index_Return (%)": -19.44,
+      "Index_CAGR (%)": -19.44,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2022,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 30.46,
+      "Strategy_TotalCAGR (%)": 30.46,
+      "Index_Return (%)": 24.23,
+      "Index_CAGR (%)": 24.23,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2023,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 11.27,
+      "Strategy_TotalCAGR (%)": 11.27,
+      "Index_Return (%)": 23.31,
+      "Index_CAGR (%)": 23.31,
+      "Strategy_Beats_Index": false
+    }
+  ],
+  "2": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2013,
+      "Strategy_TotalReturn (%)": 52.34,
+      "Strategy_TotalCAGR (%)": 23.43,
+      "Index_Return (%)": 46.98,
+      "Index_CAGR (%)": 21.23,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2014,
+      "Strategy_TotalReturn (%)": 56.51,
+      "Strategy_TotalCAGR (%)": 25.1,
+      "Index_Return (%)": 44.36,
+      "Index_CAGR (%)": 20.15,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2015,
+      "Strategy_TotalReturn (%)": 8.08,
+      "Strategy_TotalCAGR (%)": 3.96,
+      "Index_Return (%)": 10.58,
+      "Index_CAGR (%)": 5.16,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2016,
+      "Strategy_TotalReturn (%)": 6.4,
+      "Strategy_TotalCAGR (%)": 3.15,
+      "Index_Return (%)": 8.74,
+      "Index_CAGR (%)": 4.28,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2017,
+      "Strategy_TotalReturn (%)": 33.78,
+      "Strategy_TotalCAGR (%)": 15.66,
+      "Index_Return (%)": 30.81,
+      "Index_CAGR (%)": 14.37,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2018,
+      "Strategy_TotalReturn (%)": 19.88,
+      "Strategy_TotalCAGR (%)": 9.49,
+      "Index_Return (%)": 11.97,
+      "Index_CAGR (%)": 5.82,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2017,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 24.0,
+      "Strategy_TotalCAGR (%)": 11.36,
+      "Index_Return (%)": 20.84,
+      "Index_CAGR (%)": 9.93,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2018,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 63.66,
+      "Strategy_TotalCAGR (%)": 27.93,
+      "Index_Return (%)": 49.83,
+      "Index_CAGR (%)": 22.41,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2019,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 63.76,
+      "Strategy_TotalCAGR (%)": 27.97,
+      "Index_Return (%)": 47.52,
+      "Index_CAGR (%)": 21.46,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2020,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 11.56,
+      "Strategy_TotalCAGR (%)": 5.62,
+      "Index_Return (%)": 2.22,
+      "Index_CAGR (%)": 1.1,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2021,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 3.58,
+      "Strategy_TotalCAGR (%)": 1.77,
+      "Index_Return (%)": 0.08,
+      "Index_CAGR (%)": 0.04,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2022,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 41.8,
+      "Strategy_TotalCAGR (%)": 19.08,
+      "Index_Return (%)": 53.19,
+      "Index_CAGR (%)": 23.77,
+      "Strategy_Beats_Index": false
+    }
+  ],
+  "3": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2014,
+      "Strategy_TotalReturn (%)": 80.27,
+      "Strategy_TotalCAGR (%)": 21.7,
+      "Index_Return (%)": 63.72,
+      "Index_CAGR (%)": 17.86,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2015,
+      "Strategy_TotalReturn (%)": 65.76,
+      "Strategy_TotalCAGR (%)": 18.35,
+      "Index_Return (%)": 43.31,
+      "Index_CAGR (%)": 12.74,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2016,
+      "Strategy_TotalReturn (%)": 23.3,
+      "Strategy_TotalCAGR (%)": 7.23,
+      "Index_Return (%)": 21.13,
+      "Index_CAGR (%)": 6.6,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2017,
+      "Strategy_TotalReturn (%)": 32.47,
+      "Strategy_TotalCAGR (%)": 9.83,
+      "Index_Return (%)": 29.86,
+      "Index_CAGR (%)": 9.1,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2018,
+      "Strategy_TotalReturn (%)": 29.02,
+      "Strategy_TotalCAGR (%)": 8.86,
+      "Index_Return (%)": 22.65,
+      "Index_CAGR (%)": 7.04,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 55.01,
+      "Strategy_TotalCAGR (%)": 15.73,
+      "Index_Return (%)": 44.31,
+      "Index_CAGR (%)": 13.0,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2017,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 44.87,
+      "Strategy_TotalCAGR (%)": 13.15,
+      "Index_Return (%)": 40.49,
+      "Index_CAGR (%)": 12.0,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2018,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 116.52,
+      "Strategy_TotalCAGR (%)": 29.37,
+      "Index_Return (%)": 90.13,
+      "Index_CAGR (%)": 23.88,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2019,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 40.41,
+      "Strategy_TotalCAGR (%)": 11.98,
+      "Index_Return (%)": 18.84,
+      "Index_CAGR (%)": 5.92,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2020,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 50.76,
+      "Strategy_TotalCAGR (%)": 14.66,
+      "Index_Return (%)": 26.99,
+      "Index_CAGR (%)": 8.29,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2021,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 15.26,
+      "Strategy_TotalCAGR (%)": 4.85,
+      "Index_Return (%)": 23.4,
+      "Index_CAGR (%)": 7.26,
+      "Strategy_Beats_Index": false
+    }
+  ],
+  "4": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2015,
+      "Strategy_TotalReturn (%)": 98.54,
+      "Strategy_TotalCAGR (%)": 18.7,
+      "Index_Return (%)": 62.53,
+      "Index_CAGR (%)": 12.91,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2016,
+      "Strategy_TotalReturn (%)": 70.81,
+      "Strategy_TotalCAGR (%)": 14.32,
+      "Index_Return (%)": 56.98,
+      "Index_CAGR (%)": 11.93,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2017,
+      "Strategy_TotalReturn (%)": 55.2,
+      "Strategy_TotalCAGR (%)": 11.62,
+      "Index_Return (%)": 44.65,
+      "Index_CAGR (%)": 9.67,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2018,
+      "Strategy_TotalReturn (%)": 34.06,
+      "Strategy_TotalCAGR (%)": 7.6,
+      "Index_Return (%)": 21.76,
+      "Index_CAGR (%)": 5.04,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 66.17,
+      "Strategy_TotalCAGR (%)": 13.54,
+      "Index_Return (%)": 58.07,
+      "Index_CAGR (%)": 12.13,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 78.32,
+      "Strategy_TotalCAGR (%)": 15.56,
+      "Index_Return (%)": 67.77,
+      "Index_CAGR (%)": 13.81,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2017,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 89.26,
+      "Strategy_TotalCAGR (%)": 17.29,
+      "Index_Return (%)": 78.27,
+      "Index_CAGR (%)": 15.55,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2018,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 96.43,
+      "Strategy_TotalCAGR (%)": 18.39,
+      "Index_Return (%)": 53.16,
+      "Index_CAGR (%)": 11.25,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2019,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 75.13,
+      "Strategy_TotalCAGR (%)": 15.04,
+      "Index_Return (%)": 47.64,
+      "Index_CAGR (%)": 10.23,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2020,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 64.1,
+      "Strategy_TotalCAGR (%)": 13.18,
+      "Index_Return (%)": 56.59,
+      "Index_CAGR (%)": 11.86,
+      "Strategy_Beats_Index": true
+    }
+  ],
+  "5": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2016,
+      "Strategy_TotalReturn (%)": 113.17,
+      "Strategy_TotalCAGR (%)": 16.34,
+      "Index_Return (%)": 78.02,
+      "Index_CAGR (%)": 12.23,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2017,
+      "Strategy_TotalReturn (%)": 113.1,
+      "Strategy_TotalCAGR (%)": 16.34,
+      "Index_Return (%)": 87.47,
+      "Index_CAGR (%)": 13.39,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2018,
+      "Strategy_TotalReturn (%)": 53.62,
+      "Strategy_TotalCAGR (%)": 8.97,
+      "Index_Return (%)": 35.63,
+      "Index_CAGR (%)": 6.28,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 58.44,
+      "Strategy_TotalCAGR (%)": 9.64,
+      "Index_Return (%)": 56.92,
+      "Index_CAGR (%)": 9.43,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 93.55,
+      "Strategy_TotalCAGR (%)": 14.12,
+      "Index_Return (%)": 83.77,
+      "Index_CAGR (%)": 12.94,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 126.18,
+      "Strategy_TotalCAGR (%)": 17.73,
+      "Index_Return (%)": 112.89,
+      "Index_CAGR (%)": 16.31,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2017,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 58.68,
+      "Strategy_TotalCAGR (%)": 9.67,
+      "Index_Return (%)": 43.61,
+      "Index_CAGR (%)": 7.51,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2018,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 144.66,
+      "Strategy_TotalCAGR (%)": 19.59,
+      "Index_Return (%)": 90.27,
+      "Index_CAGR (%)": 13.73,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2019,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 97.87,
+      "Strategy_TotalCAGR (%)": 14.62,
+      "Index_Return (%)": 82.05,
+      "Index_CAGR (%)": 12.73,
+      "Strategy_Beats_Index": true
+    }
+  ],
+  "6": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2017,
+      "Strategy_TotalReturn (%)": 156.15,
+      "Strategy_TotalCAGR (%)": 16.97,
+      "Index_Return (%)": 112.6,
+      "Index_CAGR (%)": 13.39,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2018,
+      "Strategy_TotalReturn (%)": 111.65,
+      "Strategy_TotalCAGR (%)": 13.31,
+      "Index_Return (%)": 75.77,
+      "Index_CAGR (%)": 9.86,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 87.48,
+      "Strategy_TotalCAGR (%)": 11.04,
+      "Index_Return (%)": 74.79,
+      "Index_CAGR (%)": 9.75,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 68.83,
+      "Strategy_TotalCAGR (%)": 9.12,
+      "Index_Return (%)": 82.43,
+      "Index_CAGR (%)": 10.54,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 155.97,
+      "Strategy_TotalCAGR (%)": 16.96,
+      "Index_Return (%)": 133.19,
+      "Index_CAGR (%)": 15.16,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 95.24,
+      "Strategy_TotalCAGR (%)": 11.8,
+      "Index_Return (%)": 71.5,
+      "Index_CAGR (%)": 9.41,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2017,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 86.5,
+      "Strategy_TotalCAGR (%)": 10.95,
+      "Index_Return (%)": 78.4,
+      "Index_CAGR (%)": 10.13,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2018,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 199.74,
+      "Strategy_TotalCAGR (%)": 20.08,
+      "Index_Return (%)": 134.62,
+      "Index_CAGR (%)": 15.27,
+      "Strategy_Beats_Index": true
+    }
+  ],
+  "7": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2018,
+      "Strategy_TotalReturn (%)": 158.76,
+      "Strategy_TotalCAGR (%)": 14.55,
+      "Index_Return (%)": 99.34,
+      "Index_CAGR (%)": 10.36,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 156.93,
+      "Strategy_TotalCAGR (%)": 14.43,
+      "Index_Return (%)": 126.53,
+      "Index_CAGR (%)": 12.39,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 110.49,
+      "Strategy_TotalCAGR (%)": 11.22,
+      "Index_Return (%)": 103.21,
+      "Index_CAGR (%)": 10.66,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 109.57,
+      "Strategy_TotalCAGR (%)": 11.15,
+      "Index_Return (%)": 131.49,
+      "Index_CAGR (%)": 12.74,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 118.71,
+      "Strategy_TotalCAGR (%)": 11.83,
+      "Index_Return (%)": 87.85,
+      "Index_CAGR (%)": 9.42,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 111.12,
+      "Strategy_TotalCAGR (%)": 11.27,
+      "Index_Return (%)": 113.05,
+      "Index_CAGR (%)": 11.41,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2017,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 106.07,
+      "Strategy_TotalCAGR (%)": 10.88,
+      "Index_Return (%)": 119.99,
+      "Index_CAGR (%)": 11.92,
+      "Strategy_Beats_Index": false
+    }
+  ],
+  "8": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2019,
+      "Strategy_TotalReturn (%)": 234.54,
+      "Strategy_TotalCAGR (%)": 16.29,
+      "Index_Return (%)": 156.9,
+      "Index_CAGR (%)": 12.52,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 192.9,
+      "Strategy_TotalCAGR (%)": 14.38,
+      "Index_Return (%)": 163.36,
+      "Index_CAGR (%)": 12.87,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 154.58,
+      "Strategy_TotalCAGR (%)": 12.39,
+      "Index_Return (%)": 157.86,
+      "Index_CAGR (%)": 12.57,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 76.15,
+      "Strategy_TotalCAGR (%)": 7.33,
+      "Index_Return (%)": 86.48,
+      "Index_CAGR (%)": 8.1,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 167.9,
+      "Strategy_TotalCAGR (%)": 13.11,
+      "Index_Return (%)": 133.36,
+      "Index_CAGR (%)": 11.17,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2016,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 131.48,
+      "Strategy_TotalCAGR (%)": 11.06,
+      "Index_Return (%)": 162.71,
+      "Index_CAGR (%)": 12.83,
+      "Strategy_Beats_Index": false
+    }
+  ],
+  "9": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2020,
+      "Strategy_TotalReturn (%)": 269.15,
+      "Strategy_TotalCAGR (%)": 15.62,
+      "Index_Return (%)": 198.67,
+      "Index_CAGR (%)": 12.93,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 249.5,
+      "Strategy_TotalCAGR (%)": 14.92,
+      "Index_Return (%)": 234.19,
+      "Index_CAGR (%)": 14.35,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 123.63,
+      "Strategy_TotalCAGR (%)": 9.35,
+      "Index_Return (%)": 107.72,
+      "Index_CAGR (%)": 8.46,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 86.4,
+      "Strategy_TotalCAGR (%)": 7.16,
+      "Index_Return (%)": 131.67,
+      "Index_CAGR (%)": 9.78,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2015,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 188.16,
+      "Strategy_TotalCAGR (%)": 12.48,
+      "Index_Return (%)": 187.76,
+      "Index_CAGR (%)": 12.46,
+      "Strategy_Beats_Index": true
+    }
+  ],
+  "10": [
+    {
+      "StartYear": 2011,
+      "EndYear": 2021,
+      "Strategy_TotalReturn (%)": 332.8,
+      "Strategy_TotalCAGR (%)": 15.78,
+      "Index_Return (%)": 278.99,
+      "Index_CAGR (%)": 14.25,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2012,
+      "EndYear": 2022,
+      "Strategy_TotalReturn (%)": 205.74,
+      "Strategy_TotalCAGR (%)": 11.82,
+      "Index_Return (%)": 169.21,
+      "Index_CAGR (%)": 10.41,
+      "Strategy_Beats_Index": true
+    },
+    {
+      "StartYear": 2013,
+      "EndYear": 2023,
+      "Strategy_TotalReturn (%)": 139.38,
+      "Strategy_TotalCAGR (%)": 9.12,
+      "Index_Return (%)": 158.06,
+      "Index_CAGR (%)": 9.94,
+      "Strategy_Beats_Index": false
+    },
+    {
+      "StartYear": 2014,
+      "EndYear": 2024,
+      "Strategy_TotalReturn (%)": 93.82,
+      "Strategy_TotalCAGR (%)": 6.84,
+      "Index_Return (%)": 185.67,
+      "Index_CAGR (%)": 11.07,
+      "Strategy_Beats_Index": false
+    }
+  ]
+}
