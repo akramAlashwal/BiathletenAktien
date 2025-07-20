@@ -1,4 +1,4 @@
-
+#Copyright (C) 2025 Akram
 
 import requests
 import json

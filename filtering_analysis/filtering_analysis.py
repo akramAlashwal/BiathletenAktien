@@ -1,3 +1,5 @@
+#Copyright (C) 2025 Akram
+
 import json
 import pandas as pd
 from datetime import datetime

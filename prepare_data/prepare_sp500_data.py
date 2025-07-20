@@ -1,3 +1,5 @@
+#Copyright (C) 2025 Akram
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
