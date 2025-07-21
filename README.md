@@ -1,6 +1,6 @@
 # 📈 Biathleten-Aktien
 
-Dieses Projekt wurde im Rahmen meiner Bachelorarbeit im Studiengang Informatik an der TH Köln entwickelt. Es bildet den praktischen Teil einer wissenschaftlichen Untersuchung zur Kombination von Dividenden- und Wachstumsstrategien im Aktienmarkt.
+Dieses Projekt wurde im Rahmen meiner Bachelorarbeit im Studiengang Informatik an der TH Köln entwickelt. Es bildet den praktischen Teil einer wissenschaftlichen Untersuchung zur Kombination von Dividenden- und Wachstumsstrategien im Aktienmarkt. Es basiert auf einer wissenschaftlichen Untersuchung, die auf der Auswertung und Kombination mehrerer anerkannter wissenschaftlicher Studien zur Aktienbewertung, Dividenden- und Wachstumsstrategien fußt.
 
 ---
 
